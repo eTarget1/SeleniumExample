@@ -1,0 +1,10 @@
+http://witkowskibartosz.com/blog/selenium-firefox-profile-for-automation.html#.XkxTielOluQ
+
+https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities/firefoxOptions
+
+
+
+
+
+
+https://www.youtube.com/watch?v=r5dtl9Uq9V0&list=PLXBzSfAesh9yAWNbT5TihUufx2gqMshBp
